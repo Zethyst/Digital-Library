@@ -1,4 +1,4 @@
-<h1 align="center">BookReviews: A Digital Library/h1>
+<h1 align="center">BookReviews: A Digital Library</h1>
 
 <p align="center">
   Discover, review, and track your favorite books—all in one place. BookReviews is a modern web app that lets users search for books, share their thoughts, and explore reviews from other readers.
@@ -46,19 +46,19 @@
 > **Home Page**  
 ![Home](./src/./assets/Home.png)
 
-> **User Dashboard / My Reviews**  
+> **Footer**  
 ![Footer](./src/./assets/Footer.png)
 
-> **Book Details & Review Form**  
+> *Browse Books**  
 ![Browse](./src/./assets/Browse%20Books.png)
 
 > **Book Details & Review Form**  
 ![Details](./src/./assets/Book.png)
 
-> **Book Details & Review Form**  
+> **Add New Book**  
 ![AddBook](./src/./assets/AddBook.png)
 
-> **Login & Signup**  
+> **Profile Page**  
 ![Profile](./src/./assets/Profile.png)
 
 > **Login & Signup**  
